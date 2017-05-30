@@ -7,6 +7,7 @@
 int main()
 {
 	std::cout << "Hello GitHub" << std::endl;
+	std::cout << "Branch01" << std::endl;
     return 0;
 }
 
